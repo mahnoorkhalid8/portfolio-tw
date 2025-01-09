@@ -15,7 +15,7 @@ const Skills = () => {
 
           <div className="pt-6 " data-aos="zoom-out">
             <p className="bg-gray-300 text-lg md:text-xl p-4 border-double border-8 border-pink-800">
-              I have completed my Master's in Biochemistry, where I gained
+              I have completed my Master &apos;s in Biochemistry, where I gained
               in-depth knowledge of molecular processes and scientific research
               methodologies. Currently, I am expanding my skill set by pursuing
               a course in Artificial Intelligence (AI). This unique combination
